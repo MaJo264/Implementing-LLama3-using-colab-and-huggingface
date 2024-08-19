@@ -16,4 +16,4 @@ To follow along with this implementation, you will need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Implementing-LLama3-using-colab-and-huggingface.git
+   git clone https://github.com/MaJo264/Implementing-LLama3-using-colab-and-huggingface
